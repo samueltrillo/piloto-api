@@ -29,8 +29,8 @@ app.get("/piloto", (req, res) => {
   <body>
       <div>
           <h1>In memory of Pilot</h1>
-          <img src="http://localhost:3000/img/piloto.jpg" />
-          <img src="http://localhost:3000/img/plane.gif" />
+          <img src="../public/img/piloto.jpg" />
+          <img src="../public/img/img/plane.gif" />
       </div>
   </body>
   </html>`);
