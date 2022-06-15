@@ -29,8 +29,8 @@ app.get("/piloto", (req, res) => {
   <body>
       <div>
           <h1>In memory of Pilot</h1>
-          <img src="../public/img/piloto.jpg" />
-          <img src="../public/img/img/plane.gif" />
+          <img src="https://piloto-api.herokuapp.com/img/piloto.jpg" />
+          <img src="https://piloto-api.herokuapp.com/img/plane.gif" />
       </div>
   </body>
   </html>`);
