@@ -1,0 +1,15 @@
+[
+  {
+    "nombre": "Agustin",
+    "apellido": "Carthery",
+    "edad": "30",
+    "sexo": "undefined",
+    "profesion": [
+      "QA",
+      "Piloto de avión"
+    ],
+    "ultimaConexion": "14 de junio a las 14:53hs",
+    "activo": false,
+    "motivo": "Democraticamente se decidio la expulsion de piloto debido a reiteradas agresiones a Puche"
+  }
+]
